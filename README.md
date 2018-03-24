@@ -1,4 +1,4 @@
-# Android_Activity
+# Android_Login
 biu
 这是我写的一个简单的登录界面
 算是我的第一个Android application
